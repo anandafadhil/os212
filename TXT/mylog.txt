@@ -3,4 +3,5 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 05 L11 Assignment #01
 ZCZC W00 05 L12 Assignment #02
+ZCZC W00 05 L12 Assignment #03
 ZCZC W00 03 L14 Assignment #04
