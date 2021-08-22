@@ -2,8 +2,8 @@
 ## This is my github! Come and explore together with me! 😅
 
 Link You might be interested :<br>
-[LOG]<br>
-[REPO]
+[LOG](https://github.com/anandafadhil/os212/blob/master/TXT/mylog.txt)<br>
+[REPO](https://github.com/anandafadhil?tab=repositories)
 
 ### What i interested with :
 1. [nothing]
