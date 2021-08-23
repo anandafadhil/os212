@@ -1,5 +1,4 @@
-# os212
-Operating Systems 2021-2
+
 # Hello, My name is Ananda Fadhil. You can call me Fadhil 😊
 ## This is my github! Come and explore together with me! 😅<br>
 
