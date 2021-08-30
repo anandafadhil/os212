@@ -10,3 +10,5 @@ ZCZC W00 150 L64 Helping OS related problem to a friend.
 ZCZC W00 120 L72 Online Related Job, merchant, etc.
 ZCZC W00 600 L73 Gaming
 ZCZC W00 180 L80 Waching: Movie, YouTube, TV, etc.
+ZCZC W00 100 L02 Zoom Related : First Class Meet OS
+ZCZC W00 30 L01 Discord Related : Joining OS' Discord
