@@ -1,3 +1,4 @@
+
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
@@ -13,7 +14,7 @@ ZCZC W00 180 L80 Waching: Movie, YouTube, TV, etc.
 ZCZC W00 100 L02 Zoom Related : First Class Meet OS
 ZCZC W00 30 L01 Discord Related : Joining OS' Discord
 ZCZC W01 10 L11 Assignment #1
-ZCZC W01 30 L11 Assignment #2
-ZCZC W01 30 L11 Assignment #3
-ZCZC W01 10 L11 Assignment #4
+ZCZC W01 30 L12 Assignment #2
+ZCZC W01 30 L13 Assignment #3
+ZCZC W01 10 L14 Assignment #4
 ZCZC W01 100 L02 Zoom Related : Second Meet OS
