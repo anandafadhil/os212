@@ -1,0 +1,19 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00  10 L11 Assignment #1
+ZCZC W00  10 L12 Assignment #2
+ZCZC W00  10 L13 Assignment #3
+ZCZC W00  30 L14 Assignment #4
+ZCZC W00  30 L15 Assignment #5
+ZCZC W00 150 L64 Helping OS related problem to a friend.
+ZCZC W00 120 L72 Online Related Job, merchant, etc.
+ZCZC W00 600 L73 Gaming
+ZCZC W00 180 L80 Waching: Movie, YouTube, TV, etc.
+ZCZC W00 100 L02 Zoom Related : First Class Meet OS
+ZCZC W00 30 L01 Discord Related : Joining OS' Discord
+ZCZC W01 10 L11 Assignment #1
+ZCZC W01 30 L12 Assignment #2
+ZCZC W01 30 L13 Assignment #3
+ZCZC W01 10 L14 Assignment #4
+ZCZC W01 100 L02 Zoom Related : Second Meet OS
