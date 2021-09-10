@@ -1,5 +1,5 @@
 
-# Hello, My name is Ananda Fadhil. You can call me Fadhil 😊
+# Hey 👋, My name is Ananda Fadhil. You can call me Fadhil 😊
 ## This is my github! Come and explore together with me! 😅<br>
 
 Link You might be interested :<br>
