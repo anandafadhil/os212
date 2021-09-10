@@ -4,7 +4,8 @@
 
 Link You might be interested :<br>
 [[LOG]](https://github.com/anandafadhil/os212/blob/master/TXT/mylog.txt)<br>
-[[REPO]](https://github.com/anandafadhil?tab=repositories)
+[[REPO]](https://github.com/anandafadhil?tab=repositories)<br>
+[[LINKS]](https://github.com/anandafadhil/os212/blob/master/links.md)
 
 ### What i interested with :
 1. nothing
