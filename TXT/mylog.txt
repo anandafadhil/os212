@@ -24,3 +24,11 @@ ZCZC W01 10 L17 Assignment #7
 ZCZC W01 15 L18 Assignment #8
 ZCZC W01 15 L19 Assignment #9
 ZCZC W01 120 L64 Helping OS related problem to a friend.
+ZCZC W02 100 L02 Zoom Related : Third Meet OS
+ZCZC W02 100 L11 Assignment #1
+ZCZC W02 10 L13 Assignment #3
+ZCZC W02 10 L14 Assignment #4
+ZCZC W02 15 L15 Assignment #5
+ZCZC W02 5 L16 Assignment #6
+ZCZC W02 10 L17 Assignment #7
+ZCZC W02 15 L18 Assignment #10
