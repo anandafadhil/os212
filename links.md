@@ -4,6 +4,7 @@ permalink: /LINKS/
 ---
 
 # LINKS
+## Week01
 1. [Debian 10 Linux | Beginners Basics after Install](https://www.youtube.com/watch?v=GNCwot8byqE)<br>
 Penjelasan mengenai beberapa basic yang perlu kita ketahui setelah meng-install Debian.<br>
 Video ini cukup menarik karena menggunakan sudo, sehingga kita tahu bahwa ada cara lain untuk mengeksekusi administrator command tanpa harus kembali ke root.<br>
@@ -20,3 +21,10 @@ Website ini sangat membantu untuk memahami Bash Scripting terutama untuk pemula.
 Penjelasan basic tentang Regex yang cukup simple.<br>
 Website ini cukup mirip dengan tutorial bash, tetapi bahasan yang dimuat pada website ini cukup lebih padat. Website ini lebih memfokuskan dalam contoh dan cheatsheet dari command Regex itu sendiri.<br>
 
+## Week02
+1. [C Programming | In One Video](https://www.youtube.com/watch?v=3lQEunpmtRA)<br>
+Basic dari bahasa C yang dirangkum dalam 25 menit.<br>
+Video ini sangat membantu untuk memahami berbagai basic dari bahasa C sendiri. Selain itu, dengan ringkas nya penjelasan dari vidio ini, kita tidak mudah bosan untuk menontonnya.<br>
+2. [What is C Programming Language? Basics, Introduction, History](https://www.guru99.com/c-programming-language.html)
+Informasi C Language dari basic hingga history.<br>
+Website ini tidak jauh berbeda dengan link video di atas. Pada website ini kita dijelaskan segala macam basic dan juga sejarah dari bahasa C.<br>
