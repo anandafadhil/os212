@@ -28,3 +28,8 @@ Video ini sangat membantu untuk memahami berbagai basic dari bahasa C sendiri. S
 2. [What is C Programming Language? Basics, Introduction, History](https://www.guru99.com/c-programming-language.html)
 Informasi C Language dari basic hingga history.<br>
 Website ini tidak jauh berbeda dengan link video di atas. Pada website ini kita dijelaskan segala macam basic dan juga sejarah dari bahasa C.<br>
+
+## Week03
+1. [Mounting and Unmounting File Systems](https://docs.oracle.com/cd/E19455-01/805-7228/6j6q7ueup/index.html)<br>
+Website ini menjelaskan tentang mounting dan unmounting.
+Pada pekan ini, kita diajarkan untuk membuat disk, memounting disk, sampai mengganti owner dari disk tersebut. Website ini, menjelaskan secara detail apa yang dimaksud dengan mounting. Website ini sangat bermanfaat karena tidak terlalu banyak hal yang dibahas dan mudah untuk dipahami.
