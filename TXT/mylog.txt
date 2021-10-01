@@ -13,6 +13,7 @@ ZCZC W00 600 L73 Gaming
 ZCZC W00 180 L80 Waching: Movie, YouTube, TV, etc.
 ZCZC W00 100 L02 Zoom Related : First Class Meet OS
 ZCZC W00 30 L01 Discord Related : Joining OS' Discord
+
 ZCZC W01 10 L11 Assignment #1
 ZCZC W01 30 L12 Assignment #2
 ZCZC W01 30 L13 Assignment #3
@@ -24,6 +25,7 @@ ZCZC W01 10 L17 Assignment #7
 ZCZC W01 15 L18 Assignment #8
 ZCZC W01 15 L19 Assignment #9
 ZCZC W01 120 L64 Helping OS related problem to a friend.
+
 ZCZC W02 100 L02 Zoom Related : Third Meet OS
 ZCZC W02 100 L11 Assignment #1
 ZCZC W02 10 L13 Assignment #3
@@ -38,6 +40,7 @@ ZCZC W02 10 L09 Assignment in General (Assignment #12)
 ZCZC W02 10 L09 Assignment in General (Assignment #13)
 ZCZC W02 15 L19 Assignment #9
 ZCZC W02 100 L12 Assignment #2
+
 ZCZC W03 100 L02 Zoom Related : Fourth Meet OS
 ZCZC W03 120 L11 Assignment #1
 ZCZC W03 100 L12 Assignment #2
@@ -48,3 +51,16 @@ ZCZC W03 10 L16 Assignment #6
 ZCZC W03 5 L17 Assignment #7
 ZCZC W03 5 L18 Assignment #8
 ZCZC W03 10 L19 Assignment #9
+
+ZCZC W04 100 L02 Zoom Related : Fifth Meet OS
+ZCZC W04 120 L11 Assignment #1
+ZCZC W04 60 L13 Assignment #3
+ZCZC W04 5 L14 Assignment #4
+ZCZC W04 10 L15 Assignment #5
+ZCZC W04 10 L16 Assignment #6
+ZCZC W04 10 L17 Assignment #7
+ZCZC W04 10 L18 Assignment #8
+ZCZC W04 100 L12 Assignment #2
+ZCZC W04 40 L22 Quiz
+ZCZC W04 120 L70 Studying for TP SDA
+ZCZC W04 10 L19 Assignment #9

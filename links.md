@@ -31,5 +31,14 @@ Website ini tidak jauh berbeda dengan link video di atas. Pada website ini kita 
 
 ## Week03
 1. [Mounting and Unmounting File Systems](https://docs.oracle.com/cd/E19455-01/805-7228/6j6q7ueup/index.html)<br>
-Website ini menjelaskan tentang mounting dan unmounting.
-Pada pekan ini, kita diajarkan untuk membuat disk, memounting disk, sampai mengganti owner dari disk tersebut. Website ini, menjelaskan secara detail apa yang dimaksud dengan mounting. Website ini sangat bermanfaat karena tidak terlalu banyak hal yang dibahas dan mudah untuk dipahami.
+Website ini menjelaskan tentang mounting dan unmounting.<br>
+Pada pekan ini, kita diajarkan untuk membuat disk, memounting disk, sampai mengganti owner dari disk tersebut. Website ini, menjelaskan secara detail apa yang dimaksud dengan mounting. Website ini sangat bermanfaat karena tidak terlalu banyak hal yang dibahas dan mudah untuk dipahami.<br>
+
+## Week04
+1. [Dynamic Memory Allocation in C](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)<br>
+Kita dapat mempelajari basic dari Memory Allocation pada bahasa C.<br>
+Website ini menyediakan penjelasan yang cukup detail mengenai pengalokasian memori pada bahasa C. Beberapa fungsi yang digunakan adalah malloc(),calloc(), dan realloc(). Selain itu juga terdapat fungsi de-alokasi yaitu free().<br>
+
+2. [Memory Management in OS](https://www.guru99.com/os-memory-management.html)<br>
+Penjelasan basic mengenai memory management.<br>
+Website ini menyediakan penjelasan singkat dan jelas untuk memory management. Selain itu, teradapat tabel dan diagram yang cukup membantu memahami memory management.
