@@ -64,3 +64,18 @@ ZCZC W04 100 L12 Assignment #2
 ZCZC W04 40 L22 Quiz
 ZCZC W04 120 L70 Studying for TP SDA
 ZCZC W04 10 L19 Assignment #9
+
+ZCZC W05 40 L05 QUIZ
+ZCZC W05 100 L02 Zoom Related : Sixth Meet OS
+ZCZC W05 60 L70 Studying for other courses. (Database Quiz)
+ZCZC W05 120 L80 Waching: Movie, YouTube, TV, etc.
+ZCZC W05 120 L11 Assignment #1
+ZCZC W05 60 L13 Assignment #3
+ZCZC W05 100 L12 Assignment #2
+ZCZC W05 5 L14 Assignment #4
+ZCZC W05 10 L15 Assignment #5
+ZCZC W05 10 L16 Assignment #6
+ZCZC W05 10 L17 Assignment #7
+ZCZC W05 10 L18 Assignment #8
+ZCZC W05 10 L19 Assignment #9
+ZCZC W05 60 L64 Helping OS related problem to a friend.

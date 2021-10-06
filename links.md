@@ -42,3 +42,13 @@ Website ini menyediakan penjelasan yang cukup detail mengenai pengalokasian memo
 2. [Memory Management in OS](https://www.guru99.com/os-memory-management.html)<br>
 Penjelasan basic mengenai memory management.<br>
 Website ini menyediakan penjelasan singkat dan jelas untuk memory management. Selain itu, teradapat tabel dan diagram yang cukup membantu memahami memory management.
+
+## Week05
+1. [How to check memory on Debian Linux](https://www.cyberciti.biz/faq/how-to-check-memory-debian-linux/)<br>
+Menjelaskan cara memeriksa memori yang terpakai dan tidak terpakai pada Debian.<br>
+Website ini menjelaskan step by step untuk memeriksa memori yang terpakai dan tidak di dalam Debian Linux System. Penjelasan yang diberikan juga mudah untuk dimengerti dan diikuti langkah-langkahnya.
+
+2. [What is virtual memory?](https://techmonitor.ai/what-is/what-is-virtual-memory-4929986)<br>
+Basic explanation dari virtual memory.<br>
+Rangkuman singkat dari penjelasan virtual memory. Website ini hanya menjelaskan beberapa poin penting yang kita perlu ketahui mengenai virtual memory.
+
