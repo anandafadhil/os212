@@ -50,5 +50,9 @@ Website ini menjelaskan step by step untuk memeriksa memori yang terpakai dan ti
 
 2. [What is virtual memory?](https://techmonitor.ai/what-is/what-is-virtual-memory-4929986)<br>
 Basic explanation dari virtual memory.<br>
-Rangkuman singkat dari penjelasan virtual memory. Website ini hanya menjelaskan beberapa poin penting yang kita perlu ketahui mengenai virtual memory.
+Rangkuman singkat dari penjelasan virtual memory. Website ini hanya menjelaskan beberapa poin penting yang kita perlu ketahui mengenai virtual memory.<br>
 
+## Week06
+1. [The fork() func in C](https://www.youtube.com/watch?v=cex9XrZCU14)<br>
+Penjelasan detail tentang fungsi fork() pada bahasa C.<br>
+Dengan materi pekan ini yang cukup menyinggung tentang fork(), kita membutuhkan masukkan tentang apa itu fork dengan lebih dalam. Pada video ini, dijelaskan dengan sangat jelas apa saja yang perlu kita ketahui dari fungsi ini.
