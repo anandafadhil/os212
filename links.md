@@ -1,3 +1,4 @@
+
 ---
 layout: default
 permalink: /LINKS/
@@ -56,3 +57,8 @@ Rangkuman singkat dari penjelasan virtual memory. Website ini hanya menjelaskan 
 1. [The fork() func in C](https://www.youtube.com/watch?v=cex9XrZCU14)<br>
 Penjelasan detail tentang fungsi fork() pada bahasa C.<br>
 Dengan materi pekan ini yang cukup menyinggung tentang fork(), kita membutuhkan masukkan tentang apa itu fork dengan lebih dalam. Pada video ini, dijelaskan dengan sangat jelas apa saja yang perlu kita ketahui dari fungsi ini.
+
+## Week07
+1. [What is a buffer in C?](https://www.educative.io/edpresso/what-is-a-buffer-in-c)
+Salah satu materi OS pada pekan ini membahas tentang buffering.<br>
+Website ini membantu kita untuk memahami basic yang kita perlu ketahui tentang buffer pada C language.
