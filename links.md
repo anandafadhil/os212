@@ -62,3 +62,8 @@ Dengan materi pekan ini yang cukup menyinggung tentang fork(), kita membutuhkan 
 1. [What is a buffer in C?](https://www.educative.io/edpresso/what-is-a-buffer-in-c)
 Salah satu materi OS pada pekan ini membahas tentang buffering.<br>
 Website ini membantu kita untuk memahami basic yang kita perlu ketahui tentang buffer pada C language.
+
+## Week08
+1. [CPU Scheduling Algorithms in Operating Systems](https://www.guru99.com/cpu-scheduling-algorithms.html#:~:text=CPU%20Scheduling%20is%20a%20process,the%20ready%20queue%20for%20execution.)
+Website ini menjelaskan secara lengkap semua hal terkait dengan CPU scheduling
+
