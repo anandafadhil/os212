@@ -117,3 +117,19 @@ ZCZC W08 10 L16 Assignment $6
 ZCZC W08 10 L18 Assignment #8
 ZCZC W08 60 L64 Helping OS related problem to a friend.
 ZCZC W08 10 L19 Assignment #9
+
+ZCZC W09 100 L02 Zoom Related : Ninth Meet OS
+ZCZC W09 10 L01 SCELE/Discord related : OS W-09 Forum
+ZCZC W09 90 L11 Assignment #1
+ZCZC W09 30 L12 Assignment #2
+ZCZC W09 60 L13 Assignment #3
+ZCZC W09 120 L14 Assignment #4
+ZCZC W09 240 L15 Assignment #5
+ZCZC W09 30 L02 Zoom Related : Asking on OS QnA Session
+ZCZC W09 10 L16 Assignment #6
+ZCZC W09 10 L17 Assignment #7
+ZCZC W09 10 L18 Assignment #8
+ZCZC W09 15 L08 AsDos: asking, etc.
+ZCZC W09 60 L64 Helping OS related problem to a friend.
+ZCZC W09 10 L19 Assignment #9
+ZCZC W09 40 L05 QUIZ
