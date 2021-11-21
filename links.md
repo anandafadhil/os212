@@ -66,3 +66,6 @@ Website ini membantu kita untuk memahami basic yang kita perlu ketahui tentang b
 1. [CPU Scheduling Algorithms in Operating Systems](https://www.guru99.com/cpu-scheduling-algorithms.html#:~:text=CPU%20Scheduling%20is%20a%20process,the%20ready%20queue%20for%20execution.)
 Website ini menjelaskan secara lengkap semua hal terkait dengan CPU scheduling
 
+## Week09
+1. [10. LFS Book Chapter 7: Entering Chroot and Building Additional Tools - LFS 11.0 on iMac](https://www.youtube.com/watch?v=rVj1xtWOtDs&t=708s)<br>
+Dalam video ini, menjelaskan tentang bagaimana kita melakukan LFS pada Chapter 7
